@@ -5,7 +5,7 @@ use hf_hub::HFClient;
 use tokenizers::Tokenizer;
 
 use crate::{
-    checks::{Check, CheckResult, CheckScore::Add},
+    checks::{Check, CheckResult, CheckScore::SuspectedAi},
     repo::RepoContext,
 };
 
@@ -29,7 +29,7 @@ impl Check for ReadmeCheck {
             if ai_used {
                 results.push(CheckResult {
                     name: "README mentions AI usage".to_string(),
-                    score: Add(0.5),
+                    score: SuspectedAi(0.5),
                     output: vec![candidate_snippet],
                 });
             }

@@ -19,11 +19,8 @@ impl CoreResultsOutputFile {
         for (_check, results) in &self.results {
             for result in results {
                 match result.score {
-                    CheckScore::Add(value) => {
-                        score = score + value;
-                    }
-                    CheckScore::Subtract(value) => {
-                        score = score - value;
+                    CheckScore::SuspectedAi(value) => {
+                        score = score.max(value);
                     }
                     CheckScore::GuaranteeHuman => {
                         self.overall_score = 0.0;

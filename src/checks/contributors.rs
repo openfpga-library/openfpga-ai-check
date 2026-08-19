@@ -22,7 +22,7 @@ impl ContributorsCheck {
                         "Claude" | "Gemini" | "Codex" | "OpenAI" | "Cursor Agent" => {
                             return Some(CheckResult {
                                 name: "AI Contributor".to_string(),
-                                score: CheckScore::Add(0.75),
+                                score: CheckScore::SuspectedAi(0.75),
                                 output: vec![format!(
                                     "{} has contributed to the repo",
                                     &author_name

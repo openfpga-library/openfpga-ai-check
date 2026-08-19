@@ -174,7 +174,7 @@ impl CommitsCheck {
         if ratio > 0.0 {
             Ok(vec![CheckResult {
                 name: "Co-author check".into(),
-                score: CheckScore::Add(ratio),
+                score: CheckScore::SuspectedAi(ratio),
                 output: commit_statuses.get_stats(),
             }])
         } else {

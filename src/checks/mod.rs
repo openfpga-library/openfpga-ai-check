@@ -15,8 +15,7 @@ pub struct CheckResult {
 
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub enum CheckScore {
-    Add(f32),
-    Subtract(f32),
+    SuspectedAi(f32),
     GuaranteeHuman,
 }
 
