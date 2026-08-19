@@ -1,0 +1,41 @@
+name: Run AI Check
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-and-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
+
+      - name: Setup Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache Rust dependencies and build artifacts
+        uses: Swatinem/rust-cache@v2
+
+      - name: Cache Hugging Face models
+        uses: actions/cache@v6
+        with:
+          path: ~/.cache/huggingface
+          key: ${{ runner.os }}-hf-cache
+          restore-keys: |
+            ${{ runner.os }}-hf-cache
+
+      - name: Build and Run Rust App
+        run: cargo run --release || true
+
+      - name: Commit updated reports
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: auto-update generated reports"
+          # Only stage and commit files inside the reports directory
+          file_pattern: "reports/*"
