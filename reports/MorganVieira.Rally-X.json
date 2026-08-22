@@ -1,6 +1,7 @@
 {
-  "last_run": 1787244117660,
+  "last_run": 1787367598731,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -22,8 +23,7 @@
           "> This core was developed with Claude Opus 5 (1M context) in Claude Code"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
