@@ -1,15 +1,14 @@
 {
-  "last_run": 1787408978582,
+  "last_run": 1787517104579,
   "results": {
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.94
+          "SuspectedAi": 0.95
         },
         "output": [
-          "Of the last 100 commit messages 94 mention Claude"
+          "Of the last 100 commit messages 95 mention Claude"
         ]
       }
     ],
@@ -41,7 +40,8 @@
           "(Fable, Opus, Sonnet models) and GPT (Codex), and borrows from MAME"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
-  "overall_score": 0.94
+  "overall_score": 0.95
 }
