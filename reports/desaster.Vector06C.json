@@ -1,8 +1,6 @@
 {
-  "last_run": 1787517142244,
+  "last_run": 1787622071995,
   "results": {
-    "CommitsCheck": [],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -13,7 +11,9 @@
           "com/MiSTer-devel/Vector-06C_MiSTer) (with LLM assistance)"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": [],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
