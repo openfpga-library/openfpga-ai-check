@@ -1,16 +1,8 @@
 {
-  "last_run": 1788425625235,
+  "last_run": 1788651821738,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Pre-AI check",
-        "score": "GuaranteeHuman",
-        "output": [
-          "All commits before 2026"
-        ]
-      }
-    ],
     "ReadmeCheck": [],
+    "CommitsCheck": [],
     "ContributorsCheck": []
   },
   "overall_score": 0.0
