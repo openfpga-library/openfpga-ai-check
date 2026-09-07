@@ -1,7 +1,6 @@
 {
-  "last_run": 1788519776678,
+  "last_run": 1788753869781,
   "results": {
-    "CommitsCheck": [],
     "ContributorsCheck": [],
     "ReadmeCheck": [
       {
@@ -13,7 +12,8 @@
           "com/MiSTer-devel/Vector-06C_MiSTer) (with LLM assistance)"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": []
   },
   "overall_score": 0.5
 }

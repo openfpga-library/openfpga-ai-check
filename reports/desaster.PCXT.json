@@ -1,7 +1,6 @@
 {
-  "last_run": 1788519756965,
+  "last_run": 1788753850369,
   "results": {
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,7 +22,8 @@
           "Of the last 100 commit messages 1 mention OpenAI"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
