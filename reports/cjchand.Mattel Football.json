@@ -1,18 +1,7 @@
 {
-  "last_run": 1788901215416,
+  "last_run": 1789143435973,
   "results": {
     "ContributorsCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.9019608
-        },
-        "output": [
-          "Of the last 51 commit messages 46 mention Claude"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,6 +10,17 @@
         },
         "output": [
           "> Note: As shown in the contributors section, Claude was used to create"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.9019608
+        },
+        "output": [
+          "Of the last 51 commit messages 46 mention Claude"
         ]
       }
     ]
