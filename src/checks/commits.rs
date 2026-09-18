@@ -139,7 +139,7 @@ impl CommitsCheck {
                     .and_then(|a| Some(a.name.to_string()))
                 {
                     match author_name.as_str() {
-                        "Claude" | "Gemini" | "Codex" | "OpenAI" => {
+                        "Claude" | "Gemini" | "Codex" | "OpenAI" | "Cursor Agent" => {
                             return CommitStatus::LlmCoAuthor(author_name.to_string());
                         }
                         _ => {}
@@ -161,6 +161,9 @@ impl CommitsCheck {
                     }
                     x if x.contains("windsurf") => {
                         return CommitStatus::LlmMentioned("Windsurf".into());
+                    }
+                    x if x.contains("cursoragent") => {
+                        return CommitStatus::LlmMentioned("Cursor Agent".into());
                     }
                     _ => {}
                 }
