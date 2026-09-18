@@ -1,5 +1,5 @@
 {
-  "last_run": 1789715847707,
+  "last_run": 1789715819287,
   "results": {
     "ReadmeCheck": [],
     "ContributorsCheck": [],
@@ -7,13 +7,13 @@
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.43
+          "SuspectedAi": 1.0
         },
         "output": [
-          "Of the last 100 commit messages 43 mention Claude"
+          "Of the last 28 commit messages 28 mention Claude"
         ]
       }
     ]
   },
-  "overall_score": 0.43
+  "overall_score": 1.0
 }
