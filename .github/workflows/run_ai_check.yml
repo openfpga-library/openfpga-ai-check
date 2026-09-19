@@ -31,6 +31,8 @@ jobs:
             ${{ runner.os }}-hf-cache
 
       - name: Build and Run Rust App
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: cargo run --release || true
 
       - name: Commit updated reports
