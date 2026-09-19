@@ -29,8 +29,10 @@ struct Args {
 #[tokio::main]
 async fn main() -> Result<(), anyhow::Error> {
     let args = Args::parse();
-    let github_token = std::env::var("GITHUB_TOKEN")?;
-    let github_client = Octocrab::builder().personal_token(github_token).build()?;
+    let github_client = match std::env::var("GITHUB_TOKEN") {
+        Ok(github_token) => Octocrab::builder().personal_token(github_token).build()?,
+        Err(_) => Octocrab::builder().build()?,
+    };
     let cores = request_library_info().await?;
     let mut cores: Vec<Core> = cores
         .into_iter()
