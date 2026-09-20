@@ -1,5 +1,5 @@
 {
-  "last_run": 1789862545853,
+  "last_run": 1789890040844,
   "results": {
     "CommitsCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -22,8 +23,7 @@
           "This port was done with heavy use of AI agents"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
