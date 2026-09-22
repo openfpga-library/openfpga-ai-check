@@ -1,17 +1,6 @@
 {
-  "last_run": 1790100259186,
+  "last_run": 1790117635770,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.08
-        },
-        "output": [
-          "Of the last 100 commit messages 8 mention Claude"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -38,6 +27,17 @@
         },
         "output": [
           "As part of this development process, I had AI adapt the Analogue Pocket core sources to [Verilator](https://www"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.08
+        },
+        "output": [
+          "Of the last 100 commit messages 8 mention Claude"
         ]
       }
     ],
