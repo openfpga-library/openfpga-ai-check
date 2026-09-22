@@ -1,5 +1,5 @@
 {
-  "last_run": 1790083178984,
+  "last_run": 1790100173929,
   "results": {
     "CommitsCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -40,8 +41,7 @@
           "(Fable, Opus, Sonnet models) and GPT (Codex), and borrows from MAME"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.95
 }
