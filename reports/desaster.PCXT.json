@@ -1,7 +1,6 @@
 {
-  "last_run": 1790235069577,
+  "last_run": 1790256570321,
   "results": {
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -23,7 +22,8 @@
           "This port was done with heavy use of AI agents"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
