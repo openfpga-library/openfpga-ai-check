@@ -1,5 +1,5 @@
 {
-  "last_run": 1790209553770,
+  "last_run": 1790235229612,
   "results": {
     "CommitsCheck": [
       {
@@ -12,7 +12,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,7 +22,8 @@
           "> Disclosure: Claude was used to implement this project"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.91
 }
