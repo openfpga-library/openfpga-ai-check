@@ -1,6 +1,7 @@
 {
-  "last_run": 1790407826070,
+  "last_run": 1790427665794,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -49,8 +50,7 @@
           "com/claude-code):"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
