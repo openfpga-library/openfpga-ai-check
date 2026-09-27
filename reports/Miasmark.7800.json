@@ -1,5 +1,5 @@
 {
-  "last_run": 1790533115350,
+  "last_run": 1790532811493,
   "results": {
     "ReadmeCheck": [
       {
@@ -8,22 +8,23 @@
           "SuspectedAi": 0.5
         },
         "output": [
-          "> Note: As shown in the contributors section, Claude was used to create"
+          "To be clear and upfront, this port was assisted by Claude"
         ]
       }
     ],
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.9019608
+          "SuspectedAi": 0.7058824
         },
         "output": [
-          "Of the last 51 commit messages 46 mention Claude"
+          "Of the last 34 commits 23 were co-authored by Claude",
+          "Of the last 34 commit messages 1 mention Claude"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
-  "overall_score": 0.9019608
+  "overall_score": 0.7058824
 }
