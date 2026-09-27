@@ -1,5 +1,5 @@
 {
-  "last_run": 1790533028087,
+  "last_run": 1790549986159,
   "results": {
     "CommitsCheck": [
       {
@@ -12,7 +12,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -41,7 +40,8 @@
           "As part of this development process, I had AI adapt the Analogue Pocket core sources to [Verilator](https://www"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
