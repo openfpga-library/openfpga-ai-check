@@ -1,5 +1,5 @@
 {
-  "last_run": 1790627653337,
+  "last_run": 1790646543799,
   "results": {
     "CommitsCheck": [
       {
@@ -12,7 +12,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,7 +22,8 @@
           "> Note: As shown in the contributors section, Claude was used to create"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.9019608
 }
