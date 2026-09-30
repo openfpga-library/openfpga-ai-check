@@ -1,17 +1,7 @@
 {
-  "last_run": 1790795492511,
+  "last_run": 1790811917206,
   "results": {
-    "ReadmeCheck": [
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "> This core was developed with Claude Opus 5 (1M context) in Claude Code"
-        ]
-      }
-    ],
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -23,7 +13,17 @@
         ]
       }
     ],
-    "ContributorsCheck": []
+    "ReadmeCheck": [
+      {
+        "name": "README mentions AI usage",
+        "score": {
+          "SuspectedAi": 0.5
+        },
+        "output": [
+          "> This core was developed with Claude Opus 5 (1M context) in Claude Code"
+        ]
+      }
+    ]
   },
   "overall_score": 0.5
 }
