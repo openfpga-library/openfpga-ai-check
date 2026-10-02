@@ -1,17 +1,6 @@
 {
-  "last_run": 1790968670798,
+  "last_run": 1790985111111,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.8333333
-        },
-        "output": [
-          "Of the last 12 commit messages 10 mention Claude"
-        ]
-      }
-    ],
     "ContributorsCheck": [],
     "ReadmeCheck": [
       {
@@ -21,6 +10,17 @@
         },
         "output": [
           "- **Claude (Anthropic)** — AI co-developer: the port, the savestate"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.8333333
+        },
+        "output": [
+          "Of the last 12 commit messages 10 mention Claude"
         ]
       }
     ]
