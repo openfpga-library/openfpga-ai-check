@@ -1,18 +1,7 @@
 {
-  "last_run": 1790918021464,
+  "last_run": 1790943707926,
   "results": {
     "ContributorsCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.91
-        },
-        "output": [
-          "Of the last 100 commit messages 91 mention Claude"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,6 +10,17 @@
         },
         "output": [
           "> Disclosure: Claude was used to implement this project"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.91
+        },
+        "output": [
+          "Of the last 100 commit messages 91 mention Claude"
         ]
       }
     ]
