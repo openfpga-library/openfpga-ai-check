@@ -1,5 +1,5 @@
 {
-  "last_run": 1791102479560,
+  "last_run": 1791101834177,
   "results": {
     "ReadmeCheck": [
       {
@@ -8,7 +8,7 @@
           "SuspectedAi": 0.5
         },
         "output": [
-          "> This core was developed with Claude Opus 5 (1M context) in Claude Code"
+          "- Claude-assisted MiSTer-to-Pocket port precedent: [janisc/openfpga-NGPC](https://github"
         ]
       }
     ],
@@ -17,13 +17,13 @@
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.08
+          "SuspectedAi": 1.0
         },
         "output": [
-          "Of the last 100 commit messages 8 mention Claude"
+          "Of the last 96 commit messages 96 mention Claude"
         ]
       }
     ]
   },
-  "overall_score": 0.5
+  "overall_score": 1.0
 }
