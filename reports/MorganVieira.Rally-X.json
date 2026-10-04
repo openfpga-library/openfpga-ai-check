@@ -1,5 +1,5 @@
 {
-  "last_run": 1791061545489,
+  "last_run": 1791074294572,
   "results": {
     "CommitsCheck": [
       {
@@ -12,7 +12,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,7 +22,8 @@
           "> This core was developed with Claude Opus 5 (1M context) in Claude Code"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
