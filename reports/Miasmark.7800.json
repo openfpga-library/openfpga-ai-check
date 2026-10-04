@@ -1,14 +1,15 @@
 {
-  "last_run": 1791142010901,
+  "last_run": 1791154762691,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.99
+          "SuspectedAi": 0.98
         },
         "output": [
-          "Of the last 100 commits 99 were co-authored by Claude"
+          "Of the last 100 commits 98 were co-authored by Claude"
         ]
       }
     ],
@@ -22,8 +23,7 @@
           "To be clear and upfront, this port was assisted by Claude"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
-  "overall_score": 0.99
+  "overall_score": 0.98
 }
