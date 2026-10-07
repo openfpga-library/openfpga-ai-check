@@ -1,7 +1,6 @@
 {
-  "last_run": 1791350842891,
+  "last_run": 1791378330159,
   "results": {
-    "ContributorsCheck": [],
     "CommitsCheck": [],
     "ReadmeCheck": [
       {
@@ -31,7 +30,8 @@
           "The full story, including the mistakes, workflow changes, context problems, migration packages, and what I learned about using AI as a technical collaborator, is here:"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
