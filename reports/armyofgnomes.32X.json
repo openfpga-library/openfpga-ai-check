@@ -1,7 +1,6 @@
 {
-  "last_run": 1791330347849,
+  "last_run": 1791350927368,
   "results": {
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,6 +13,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
