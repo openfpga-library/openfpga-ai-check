@@ -66,6 +66,14 @@ async fn main() -> Result<(), anyhow::Error> {
     for core in cores {
         println!("Core: {}", &core.id);
 
+        // The library lists releases newest first.
+        let declared_ai = core
+            .releases
+            .first()
+            .and_then(|release| release.updaters.as_ref())
+            .and_then(|updaters| updaters.declare_ai.clone())
+            .unwrap_or_default();
+
         match core.repository {
             Repository {
                 platform,
@@ -77,6 +85,7 @@ async fn main() -> Result<(), anyhow::Error> {
                     owner: owner,
                     repo: name,
                     client: github_client.clone(),
+                    declared_ai,
                 };
 
                 let mut results: HashMap<String, Vec<CheckResult>> = HashMap::new();
