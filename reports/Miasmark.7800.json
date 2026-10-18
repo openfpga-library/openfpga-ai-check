@@ -1,18 +1,6 @@
 {
-  "last_run": 1792349038405,
+  "last_run": 1792362614904,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.97
-        },
-        "output": [
-          "Of the last 100 commits 97 were co-authored by Claude"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,6 +9,18 @@
         },
         "output": [
           "To be clear and upfront, this port was assisted by Claude"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.97
+        },
+        "output": [
+          "Of the last 100 commits 97 were co-authored by Claude"
         ]
       }
     ]
