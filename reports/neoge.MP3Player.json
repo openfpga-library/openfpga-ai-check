@@ -1,7 +1,6 @@
 {
-  "last_run": 1792384156655,
+  "last_run": 1792415046601,
   "results": {
-    "ContributorsCheck": [],
     "ReadmeCheck": [],
     "CommitsCheck": [
       {
@@ -13,7 +12,8 @@
           "Of the last 12 commit messages 11 mention Claude"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.9166667
 }
