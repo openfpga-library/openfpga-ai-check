@@ -1,6 +1,18 @@
 {
-  "last_run": 1792495203621,
+  "last_run": 1792514699912,
   "results": {
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.96
+        },
+        "output": [
+          "Of the last 100 commits 47 were co-authored by Claude",
+          "Of the last 100 commit messages 49 mention Claude or OpenAI"
+        ]
+      }
+    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -57,19 +69,7 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.96
-        },
-        "output": [
-          "Of the last 100 commits 47 were co-authored by Claude",
-          "Of the last 100 commit messages 49 mention Claude or OpenAI"
-        ]
-      }
-    ]
+    "ContributorsCheck": []
   },
   "overall_score": 0.96
 }
