@@ -1,17 +1,6 @@
 {
-  "last_run": 1792590553997,
+  "last_run": 1792608142253,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.9846154
-        },
-        "output": [
-          "Of the last 65 commit messages 64 mention Claude"
-        ]
-      }
-    ],
     "ContributorsCheck": [],
     "ReadmeCheck": [
       {
@@ -30,6 +19,17 @@
         },
         "output": [
           "md](CLAUDE"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.9846154
+        },
+        "output": [
+          "Of the last 65 commit messages 64 mention Claude"
         ]
       }
     ]
