@@ -1,5 +1,5 @@
 {
-  "last_run": 1792607489008,
+  "last_run": 1792624152104,
   "results": {
     "CommitsCheck": [
       {
@@ -12,7 +12,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,7 +22,8 @@
           "☕️ **[Buy Alfatreze a Coffee or help out with my redbulls, Claude and Codex Subs 😇](https://buymeacoffee"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.97
 }
