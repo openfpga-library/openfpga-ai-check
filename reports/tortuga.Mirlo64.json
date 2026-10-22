@@ -1,6 +1,7 @@
 {
-  "last_run": 1792624819324,
+  "last_run": 1792643093276,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [],
     "ReadmeCheck": [
       {
@@ -12,8 +13,7 @@
           "This development is AI assisted"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
