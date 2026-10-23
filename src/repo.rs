@@ -5,6 +5,8 @@ pub struct RepoContext {
     pub client: Octocrab,
     pub owner: String,
     pub repo: String,
+    /// AI tools the author declares in their latest release's `updaters.json`.
+    pub declared_ai: Vec<String>,
 }
 
 impl RepoContext {
