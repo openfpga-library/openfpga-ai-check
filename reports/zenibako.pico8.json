@@ -1,6 +1,7 @@
 {
-  "last_run": 1792944007263,
+  "last_run": 1792954626795,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -68,8 +69,7 @@
           "claim that AI was unused"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.76
 }
