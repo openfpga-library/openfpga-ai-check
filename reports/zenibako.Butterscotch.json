@@ -1,5 +1,5 @@
 {
-  "last_run": 1792988404431,
+  "last_run": 1793018611055,
   "results": {
     "ReadmeCheck": [
       {
@@ -47,7 +47,7 @@
         },
         "output": [
           "Of the last 100 commits 1 were co-authored by Claude",
-          "Of the last 100 commit messages 61 mention OpenAI or Claude"
+          "Of the last 100 commit messages 61 mention Claude or OpenAI"
         ]
       }
     ],
