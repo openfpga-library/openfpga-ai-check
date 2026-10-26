@@ -1,57 +1,20 @@
 {
-  "last_run": 1793018611055,
+  "last_run": 1793044384091,
   "results": {
-    "ReadmeCheck": [
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "## AI development disclosure"
-        ]
-      },
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "OpenAI Codex and Claude Code have provided substantial assistance with the"
-        ]
-      },
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "[openFPGA AI report](https://github"
-        ]
-      },
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "claim that AI was unused"
-        ]
-      }
-    ],
+    "ReadmeCheck": [],
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.62
+          "SuspectedAi": 0.27
         },
         "output": [
-          "Of the last 100 commits 1 were co-authored by Claude",
-          "Of the last 100 commit messages 61 mention Claude or OpenAI"
+          "Of the last 100 commits 8 were co-authored by Claude",
+          "Of the last 100 commit messages 19 mention OpenAI or Claude"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
-  "overall_score": 0.62
+  "overall_score": 0.27
 }
