@@ -1,17 +1,6 @@
 {
-  "last_run": 1793102914027,
+  "last_run": 1793124400511,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 1.0
-        },
-        "output": [
-          "Of the last 96 commit messages 96 mention Claude"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -20,6 +9,17 @@
         },
         "output": [
           "- Claude-assisted MiSTer-to-Pocket port precedent: [janisc/openfpga-NGPC](https://github"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 1.0
+        },
+        "output": [
+          "Of the last 96 commit messages 96 mention Claude"
         ]
       }
     ],
