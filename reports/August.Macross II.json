@@ -1,6 +1,7 @@
 {
-  "last_run": 1793164472688,
+  "last_run": 1793191212211,
   "results": {
+    "ContributorsCheck": [],
     "CommitsCheck": [],
     "ReadmeCheck": [
       {
@@ -12,8 +13,7 @@
           "Like my first effort, this was done entirely with the help of ChatGPT / Codex, and done as a proof of concept"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
