@@ -1,5 +1,5 @@
 {
-  "last_run": 1793191144377,
+  "last_run": 1793215882327,
   "results": {
     "ReadmeCheck": [
       {
@@ -64,8 +64,8 @@
           "SuspectedAi": 0.76
         },
         "output": [
-          "Of the last 100 commits 13 were co-authored by Claude",
-          "Of the last 100 commit messages 63 mention OpenAI or Claude"
+          "Of the last 100 commits 8 were co-authored by Claude",
+          "Of the last 100 commit messages 68 mention Claude or OpenAI"
         ]
       }
     ],
