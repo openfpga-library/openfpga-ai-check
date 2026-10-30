@@ -1,18 +1,6 @@
 {
-  "last_run": 1793302333949,
+  "last_run": 1793318172074,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.93
-        },
-        "output": [
-          "Of the last 100 commit messages 93 mention Claude"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -30,6 +18,18 @@
         },
         "output": [
           "`Co-Authored-By: Claude` line"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.93
+        },
+        "output": [
+          "Of the last 100 commit messages 93 mention Claude"
         ]
       }
     ]
