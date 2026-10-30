@@ -1,8 +1,6 @@
 {
-  "last_run": 1793387368769,
+  "last_run": 1793403364663,
   "results": {
-    "ContributorsCheck": [],
-    "ReadmeCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,7 +12,9 @@
           "Of the last 100 commit messages 28 mention Claude or OpenAI"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": [],
+    "ReadmeCheck": []
   },
   "overall_score": 0.32
 }
