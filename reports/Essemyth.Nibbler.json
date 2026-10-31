@@ -1,5 +1,5 @@
 {
-  "last_run": 1793471123885,
+  "last_run": 1793488671315,
   "results": {
     "CommitsCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -49,8 +50,7 @@
           "Claude built the core in milestones, starting from Analogue's template, with"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 1.0
 }
