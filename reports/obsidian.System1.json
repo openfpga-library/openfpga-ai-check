@@ -1,7 +1,6 @@
 {
-  "last_run": 1793511763928,
+  "last_run": 1793538686724,
   "results": {
-    "ContributorsCheck": [],
     "ReadmeCheck": [],
     "CommitsCheck": [
       {
@@ -11,7 +10,8 @@
           "All commits before 2026"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.0
 }
