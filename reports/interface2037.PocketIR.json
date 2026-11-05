@@ -1,6 +1,7 @@
 {
-  "last_run": 1793845317880,
+  "last_run": 1793880783600,
   "results": {
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -31,8 +32,7 @@
           "Of the last 65 commit messages 64 mention Claude"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.9846154
 }

@@ -1,18 +1,6 @@
 {
-  "last_run": 1793844714342,
+  "last_run": 1793880335884,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.9
-        },
-        "output": [
-          "Of the last 100 commit messages 90 mention Claude"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,6 +9,18 @@
         },
         "output": [
           "☕️ **[Buy Alfatreze a Coffee or help out with my redbulls, Claude and Codex Subs 😇](https://buymeacoffee"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.9
+        },
+        "output": [
+          "Of the last 100 commit messages 90 mention Claude"
         ]
       }
     ]
