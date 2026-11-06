@@ -12,6 +12,19 @@ Run a AI check on cores & host the results for all updaters to pull from
 - Currently it's unbounded but eventually it'll be from 0 to 1
 - With the intention to score a fully vibe-coded core 1, and one that's had the occasional vibe-coded PR a lower score
 
+## Declaring AI use
+
+- A core's author can declare AI use by listing the tools they used in `Cores/<core id>/updaters.json` inside the release zip:
+
+```json
+{
+    "declare_ai": ["Claude"]
+}
+```
+
+- The openFPGA library publishes the list in `api/v3/cores.json`, and `DeclarationCheck` reads it from the core's latest release
+- A non-empty list scores `DeclaredAi`, which sets the overall score to 1 and overrides every other check, including `GuaranteeHuman`
+
 ## Running the check
 
 - The app is designed to run on a scheduled github workflow, with the reports being commited back into the repo
