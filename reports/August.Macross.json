@@ -1,6 +1,8 @@
 {
-  "last_run": 1793913194644,
+  "last_run": 1793931873431,
   "results": {
+    "CommitsCheck": [],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -29,9 +31,7 @@
           "The full story, including the mistakes, workflow changes, context problems, migration packages, and what I learned about using AI as a technical collaborator, is here:"
         ]
       }
-    ],
-    "ContributorsCheck": [],
-    "CommitsCheck": []
+    ]
   },
   "overall_score": 0.5
 }

@@ -1,7 +1,6 @@
 {
-  "last_run": 1793913341672,
+  "last_run": 1793932038750,
   "results": {
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -24,7 +23,8 @@
           "To be clear and upfront, this port was assisted by Claude"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.95
 }
