@@ -1,7 +1,8 @@
 {
-  "last_run": 1793965281652,
+  "last_run": 1793992571260,
   "results": {
     "ContributorsCheck": [],
+    "DeclarationCheck": [],
     "CommitsCheck": [],
     "ReadmeCheck": [
       {
@@ -22,8 +23,7 @@
           "OpenAI Codex and Anthropic Claude wrote nearly all of the HDL,"
         ]
       }
-    ],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 0.5
 }

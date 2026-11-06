@@ -1,5 +1,5 @@
 {
-  "last_run": 1793966367333,
+  "last_run": 1793993306919,
   "results": {
     "DeclarationCheck": [],
     "CommitsCheck": [
@@ -14,7 +14,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -25,7 +24,8 @@
           "To be clear and upfront, this port was assisted by Claude"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.95
 }
