@@ -1,14 +1,14 @@
 {
-  "last_run": 1794010181598,
+  "last_run": 1794041227191,
   "results": {
-    "CommitsCheck": [
+    "ReadmeCheck": [
       {
-        "name": "Co-author check",
+        "name": "README mentions AI usage",
         "score": {
-          "SuspectedAi": 0.1
+          "SuspectedAi": 0.5
         },
         "output": [
-          "Of the last 100 commit messages 10 mention Claude"
+          "com/vieira-fpga\">Vieira FPGA</a> with Claude Opus 5 (1M context) in Claude Code"
         ]
       }
     ],
@@ -22,14 +22,14 @@
       }
     ],
     "ContributorsCheck": [],
-    "ReadmeCheck": [
+    "CommitsCheck": [
       {
-        "name": "README mentions AI usage",
+        "name": "Co-author check",
         "score": {
-          "SuspectedAi": 0.5
+          "SuspectedAi": 0.1
         },
         "output": [
-          "com/vieira-fpga\">Vieira FPGA</a> with Claude Opus 5 (1M context) in Claude Code"
+          "Of the last 100 commit messages 10 mention Claude"
         ]
       }
     ]
