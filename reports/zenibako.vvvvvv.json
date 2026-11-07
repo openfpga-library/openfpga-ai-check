@@ -1,5 +1,5 @@
 {
-  "last_run": 1793992599755,
+  "last_run": 1794009765795,
   "results": {
     "CommitsCheck": [
       {
@@ -13,6 +13,7 @@
         ]
       }
     ],
+    "ReadmeCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -22,8 +23,7 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
-    "ReadmeCheck": []
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
