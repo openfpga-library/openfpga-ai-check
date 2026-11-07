@@ -1,7 +1,9 @@
 {
-  "last_run": 1794068875886,
+  "last_run": 1794088916663,
   "results": {
     "ContributorsCheck": [],
+    "DeclarationCheck": [],
+    "ReadmeCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -12,9 +14,7 @@
           "Of the last 11 commit messages 11 mention Claude or Cursor Agent"
         ]
       }
-    ],
-    "ReadmeCheck": [],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 1.0
 }

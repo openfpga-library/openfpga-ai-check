@@ -1,9 +1,9 @@
 {
-  "last_run": 1794068872149,
+  "last_run": 1794088913037,
   "results": {
-    "ReadmeCheck": [],
-    "ContributorsCheck": [],
     "DeclarationCheck": [],
+    "ContributorsCheck": [],
+    "ReadmeCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
