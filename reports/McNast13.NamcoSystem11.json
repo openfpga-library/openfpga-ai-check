@@ -1,6 +1,7 @@
 {
-  "last_run": 1794087863067,
+  "last_run": 1794100564363,
   "results": {
+    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -12,7 +13,7 @@
         ]
       }
     ],
-    "DeclarationCheck": [],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -32,8 +33,7 @@
           "`Co-Authored-By: Claude` line"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.92
 }
