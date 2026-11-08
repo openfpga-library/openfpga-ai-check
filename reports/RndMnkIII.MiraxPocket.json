@@ -1,6 +1,8 @@
 {
-  "last_run": 1794128877194,
+  "last_run": 1794156442486,
   "results": {
+    "ContributorsCheck": [],
+    "CommitsCheck": [],
     "DeclarationCheck": [],
     "ReadmeCheck": [
       {
@@ -21,9 +23,7 @@
           "- AI-assisted analysis and documentation by **Claude (Anthropic)**; see [section 2](#2-experimental-status-and-accuracy)"
         ]
       }
-    ],
-    "ContributorsCheck": [],
-    "CommitsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
