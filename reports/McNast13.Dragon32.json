@@ -1,6 +1,7 @@
 {
-  "last_run": 1794322884950,
+  "last_run": 1794348109472,
   "results": {
+    "DeclarationCheck": [],
     "ContributorsCheck": [],
     "CommitsCheck": [
       {
@@ -23,8 +24,7 @@
           "- Claude-assisted MiSTer-to-Pocket port precedent: [janisc/openfpga-NGPC](https://github"
         ]
       }
-    ],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 1.0
 }

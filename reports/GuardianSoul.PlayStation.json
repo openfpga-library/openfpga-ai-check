@@ -1,8 +1,6 @@
 {
-  "last_run": 1794322322535,
+  "last_run": 1794347631645,
   "results": {
-    "DeclarationCheck": [],
-    "ContributorsCheck": [],
     "CommitsCheck": [],
     "ReadmeCheck": [
       {
@@ -32,7 +30,9 @@
           "and Anthropic Claude wrote most of the new HDL, build scripts, tests and"
         ]
       }
-    ]
+    ],
+    "DeclarationCheck": [],
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
