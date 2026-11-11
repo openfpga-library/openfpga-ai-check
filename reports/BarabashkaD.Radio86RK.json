@@ -1,15 +1,6 @@
 {
-  "last_run": 1794388184399,
+  "last_run": 1794419403693,
   "results": {
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude"
-        ]
-      }
-    ],
     "ContributorsCheck": [],
     "CommitsCheck": [
       {
@@ -19,6 +10,15 @@
         },
         "output": [
           "Of the last 8 commit messages 8 mention Claude"
+        ]
+      }
+    ],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude"
         ]
       }
     ],
