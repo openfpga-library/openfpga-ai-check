@@ -1,7 +1,7 @@
 {
-  "last_run": 1794347211770,
+  "last_run": 1794361868521,
   "results": {
-    "ContributorsCheck": [],
+    "ReadmeCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -23,7 +23,7 @@
         ]
       }
     ],
-    "ReadmeCheck": []
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
