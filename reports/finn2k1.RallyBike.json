@@ -1,9 +1,8 @@
 {
-  "last_run": 1794477644369,
+  "last_run": 1794507973931,
   "results": {
-    "DeclarationCheck": [],
     "ReadmeCheck": [],
-    "ContributorsCheck": [],
+    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,7 +13,8 @@
           "Of the last 3 commit messages 3 mention Cursor Agent"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
