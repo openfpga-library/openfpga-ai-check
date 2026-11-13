@@ -1,19 +1,6 @@
 {
-  "last_run": 1794591730828,
+  "last_run": 1794612693472,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 1.0
-        },
-        "output": [
-          "Of the last 4 commit messages 4 mention Claude"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
-    "DeclarationCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -49,6 +36,19 @@
         },
         "output": [
           "Claude built the core in milestones, starting from Analogue's template, with"
+        ]
+      }
+    ],
+    "DeclarationCheck": [],
+    "ContributorsCheck": [],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 1.0
+        },
+        "output": [
+          "Of the last 4 commit messages 4 mention Claude"
         ]
       }
     ]
