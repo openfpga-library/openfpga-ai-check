@@ -1,5 +1,5 @@
 {
-  "last_run": 1794562741365,
+  "last_run": 1794593066031,
   "results": {
     "CommitsCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "DeclarationCheck": [],
     "ContributorsCheck": [],
     "ReadmeCheck": [
       {
@@ -23,8 +24,7 @@
           "> Disclosure: Claude was used to implement this project"
         ]
       }
-    ],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 0.91
 }
