@@ -1,6 +1,9 @@
 {
-  "last_run": 1794506876768,
+  "last_run": 1794532179378,
   "results": {
+    "ContributorsCheck": [],
+    "CommitsCheck": [],
+    "DeclarationCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -11,10 +14,7 @@
           "- **auricom79** — Pocket port project and hardware testing, developed with assistance from OpenAI Codex"
         ]
       }
-    ],
-    "DeclarationCheck": [],
-    "ContributorsCheck": [],
-    "CommitsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
