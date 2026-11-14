@@ -1,17 +1,6 @@
 {
-  "last_run": 1794636988624,
+  "last_run": 1794663710176,
   "results": {
-    "ReadmeCheck": [
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "This port was done with heavy use of AI agents"
-        ]
-      }
-    ],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -23,8 +12,19 @@
         ]
       }
     ],
-    "DeclarationCheck": [],
-    "ContributorsCheck": []
+    "ReadmeCheck": [
+      {
+        "name": "README mentions AI usage",
+        "score": {
+          "SuspectedAi": 0.5
+        },
+        "output": [
+          "This port was done with heavy use of AI agents"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "DeclarationCheck": []
   },
   "overall_score": 0.5
 }
