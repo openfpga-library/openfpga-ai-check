@@ -1,6 +1,8 @@
 {
-  "last_run": 1794613986942,
+  "last_run": 1794637161896,
   "results": {
+    "ContributorsCheck": [],
+    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -22,9 +24,7 @@
           "> Disclosure: Claude was used to implement this project"
         ]
       }
-    ],
-    "DeclarationCheck": [],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.91
 }

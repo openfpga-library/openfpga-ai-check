@@ -1,7 +1,6 @@
 {
-  "last_run": 1794612789406,
+  "last_run": 1794635970636,
   "results": {
-    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,6 +13,7 @@
       }
     ],
     "ReadmeCheck": [],
+    "DeclarationCheck": [],
     "ContributorsCheck": []
   },
   "overall_score": 0.044444446
