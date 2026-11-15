@@ -1,8 +1,18 @@
 {
-  "last_run": 1794723627422,
+  "last_run": 1794751956919,
   "results": {
     "DeclarationCheck": [],
-    "ContributorsCheck": [],
+    "ReadmeCheck": [
+      {
+        "name": "README mentions AI usage",
+        "score": {
+          "SuspectedAi": 0.5
+        },
+        "output": [
+          "> Disclosure: Claude was used to implement this project"
+        ]
+      }
+    ],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,17 +24,7 @@
         ]
       }
     ],
-    "ReadmeCheck": [
-      {
-        "name": "README mentions AI usage",
-        "score": {
-          "SuspectedAi": 0.5
-        },
-        "output": [
-          "> Disclosure: Claude was used to implement this project"
-        ]
-      }
-    ]
+    "ContributorsCheck": []
   },
   "overall_score": 0.91
 }
