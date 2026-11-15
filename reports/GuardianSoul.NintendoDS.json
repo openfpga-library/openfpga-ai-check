@@ -1,16 +1,6 @@
 {
-  "last_run": 1794750541314,
+  "last_run": 1794771732409,
   "results": {
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude, Codex"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -31,6 +21,16 @@
         ]
       }
     ],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude, Codex"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
     "CommitsCheck": []
   },
   "overall_score": 1.0

@@ -1,7 +1,6 @@
 {
-  "last_run": 1794750496780,
+  "last_run": 1794771687177,
   "results": {
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -22,6 +21,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -29,7 +29,7 @@
           "SuspectedAi": 1.0
         },
         "output": [
-          "Of the last 12 commit messages 12 mention Claude"
+          "Of the last 13 commit messages 13 mention Claude"
         ]
       }
     ],

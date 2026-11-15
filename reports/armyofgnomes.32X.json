@@ -1,5 +1,5 @@
 {
-  "last_run": 1794751613623,
+  "last_run": 1794772840629,
   "results": {
     "CommitsCheck": [
       {
@@ -13,7 +13,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "DeclarationCheck": [],
     "ReadmeCheck": [
       {
@@ -70,7 +69,8 @@
           "com/claude-code),"
         ]
       }
-    ]
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 0.9893617
 }
