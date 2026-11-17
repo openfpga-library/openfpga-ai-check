@@ -1,6 +1,8 @@
 {
-  "last_run": 1794843663351,
+  "last_run": 1794874879545,
   "results": {
+    "ContributorsCheck": [],
+    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -12,7 +14,6 @@
         ]
       }
     ],
-    "DeclarationCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -23,8 +24,7 @@
           "- **Claude (Anthropic)** — AI co-developer: the port, the savestate"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.875
 }
