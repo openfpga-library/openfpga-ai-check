@@ -1,5 +1,5 @@
 {
-  "last_run": 1794874358089,
+  "last_run": 1794911512598,
   "results": {
     "CommitsCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "DeclarationCheck": [],
     "ReadmeCheck": [
       {
@@ -32,8 +33,7 @@
           "`Co-Authored-By: Claude` line"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 0.92
 }
