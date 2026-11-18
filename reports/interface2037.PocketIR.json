@@ -1,6 +1,8 @@
 {
-  "last_run": 1794949144583,
+  "last_run": 1794973507039,
   "results": {
+    "DeclarationCheck": [],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,7 +23,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -32,8 +33,7 @@
           "Of the last 65 commit messages 64 mention Claude"
         ]
       }
-    ],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 0.9846154
 }

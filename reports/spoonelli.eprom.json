@@ -1,7 +1,9 @@
 {
-  "last_run": 1794949669855,
+  "last_run": 1794973951880,
   "results": {
     "ContributorsCheck": [],
+    "DeclarationCheck": [],
+    "ReadmeCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -12,9 +14,7 @@
           "Of the last 100 commit messages 100 mention Claude"
         ]
       }
-    ],
-    "DeclarationCheck": [],
-    "ReadmeCheck": []
+    ]
   },
   "overall_score": 1.0
 }
