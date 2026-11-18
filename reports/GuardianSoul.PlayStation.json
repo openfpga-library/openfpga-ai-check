@@ -1,8 +1,6 @@
 {
-  "last_run": 1795007007171,
+  "last_run": 1795038992790,
   "results": {
-    "CommitsCheck": [],
-    "ContributorsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -12,6 +10,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -40,7 +39,8 @@
           "and Anthropic Claude wrote most of the new HDL, build scripts, tests and"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": []
   },
   "overall_score": 1.0
 }
