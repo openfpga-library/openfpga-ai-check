@@ -1,19 +1,6 @@
 {
-  "last_run": 1795093444050,
+  "last_run": 1795126939891,
   "results": {
-    "ContributorsCheck": [],
-    "DeclarationCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.01
-        },
-        "output": [
-          "Of the last 100 commit messages 1 mention OpenAI"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -22,6 +9,19 @@
         },
         "output": [
           "This port was done with heavy use of AI agents"
+        ]
+      }
+    ],
+    "DeclarationCheck": [],
+    "ContributorsCheck": [],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.01
+        },
+        "output": [
+          "Of the last 100 commit messages 1 mention OpenAI"
         ]
       }
     ]
