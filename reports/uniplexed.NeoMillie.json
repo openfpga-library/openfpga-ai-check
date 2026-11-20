@@ -1,15 +1,6 @@
 {
-  "last_run": 1795125790904,
+  "last_run": 1795157235789,
   "results": {
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude Code"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -38,6 +29,15 @@
         },
         "output": [
           "Of the last 17 commit messages 17 mention Claude"
+        ]
+      }
+    ],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude Code"
         ]
       }
     ],
