@@ -1,17 +1,6 @@
 {
-  "last_run": 1795157320168,
+  "last_run": 1795193665207,
   "results": {
-    "ContributorsCheck": [],
-    "CommitsCheck": [],
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude, Codex"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -31,7 +20,18 @@
           "OpenAI Codex and Anthropic Claude wrote nearly all of the HDL,"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": [],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude, Codex"
+        ]
+      }
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
