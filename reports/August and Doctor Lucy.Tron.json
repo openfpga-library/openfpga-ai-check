@@ -1,8 +1,9 @@
 {
-  "last_run": 1795219254729,
+  "last_run": 1795243652884,
   "results": {
-    "CommitsCheck": [],
     "ContributorsCheck": [],
+    "CommitsCheck": [],
+    "DeclarationCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -22,8 +23,7 @@
           "Like my first effort, this was done entirely with the help of ChatGPT / Codex, and done as a proof of concept"
         ]
       }
-    ],
-    "DeclarationCheck": []
+    ]
   },
   "overall_score": 0.5
 }

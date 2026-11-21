@@ -1,7 +1,8 @@
 {
-  "last_run": 1795219463709,
+  "last_run": 1795243863709,
   "results": {
     "ContributorsCheck": [],
+    "CommitsCheck": [],
     "DeclarationCheck": [],
     "ReadmeCheck": [
       {
@@ -13,8 +14,7 @@
           "This project was developed with AI assistance, directed by a human who knows and cares about the Amstrad CPC"
         ]
       }
-    ],
-    "CommitsCheck": []
+    ]
   },
   "overall_score": 0.5
 }
