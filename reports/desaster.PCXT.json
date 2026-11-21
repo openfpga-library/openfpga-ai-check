@@ -1,6 +1,17 @@
 {
-  "last_run": 1795194552679,
+  "last_run": 1795219974430,
   "results": {
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.01
+        },
+        "output": [
+          "Of the last 100 commit messages 1 mention OpenAI"
+        ]
+      }
+    ],
     "DeclarationCheck": [],
     "ReadmeCheck": [
       {
@@ -13,18 +24,7 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.01
-        },
-        "output": [
-          "Of the last 100 commit messages 1 mention OpenAI"
-        ]
-      }
-    ]
+    "ContributorsCheck": []
   },
   "overall_score": 0.5
 }
