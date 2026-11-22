@@ -1,5 +1,5 @@
 {
-  "last_run": 1795302465877,
+  "last_run": 1795328591087,
   "results": {
     "ReadmeCheck": [
       {
@@ -12,6 +12,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -31,8 +32,7 @@
           "Of the last 100 commit messages 10 mention Claude"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 1.0
 }

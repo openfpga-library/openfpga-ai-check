@@ -1,6 +1,18 @@
 {
-  "last_run": 1795301992008,
+  "last_run": 1795327894545,
   "results": {
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.2857143
+        },
+        "output": [
+          "Of the last 7 commits 1 were co-authored by Codex",
+          "Of the last 7 commit messages 1 mention OpenAI"
+        ]
+      }
+    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -21,7 +33,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -31,18 +42,7 @@
         ]
       }
     ],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.2857143
-        },
-        "output": [
-          "Of the last 7 commits 1 were co-authored by Codex",
-          "Of the last 7 commit messages 1 mention OpenAI"
-        ]
-      }
-    ]
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
