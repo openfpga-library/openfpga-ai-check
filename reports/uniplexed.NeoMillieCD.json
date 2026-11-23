@@ -1,7 +1,6 @@
 {
-  "last_run": 1795417366003,
+  "last_run": 1795464225288,
   "results": {
-    "ContributorsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -11,6 +10,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
