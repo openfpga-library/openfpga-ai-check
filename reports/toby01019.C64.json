@@ -1,7 +1,6 @@
 {
-  "last_run": 1795390381756,
+  "last_run": 1795417441446,
   "results": {
-    "DeclarationCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -22,6 +21,7 @@
         ]
       }
     ],
+    "DeclarationCheck": [],
     "CommitsCheck": [],
     "ContributorsCheck": []
   },
