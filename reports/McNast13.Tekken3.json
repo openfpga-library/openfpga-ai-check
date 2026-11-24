@@ -1,8 +1,7 @@
 {
-  "last_run": 1795499529621,
+  "last_run": 1795541019462,
   "results": {
     "ContributorsCheck": [],
-    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -33,7 +32,8 @@
           "`Co-Authored-By: Claude` line"
         ]
       }
-    ]
+    ],
+    "DeclarationCheck": []
   },
   "overall_score": 1.0
 }

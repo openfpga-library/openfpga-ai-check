@@ -1,6 +1,16 @@
 {
-  "last_run": 1795500377704,
+  "last_run": 1795541606056,
   "results": {
+    "ContributorsCheck": [],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude"
+        ]
+      }
+    ],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -22,17 +32,7 @@
           "com/vieira-fpga\">Vieira FPGA</a> with Claude Opus 5 (1M context) in Claude Code"
         ]
       }
-    ],
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude"
-        ]
-      }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 1.0
 }
