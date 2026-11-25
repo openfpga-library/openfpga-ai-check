@@ -1,28 +1,6 @@
 {
-  "last_run": 1795541117008,
+  "last_run": 1795572718730,
   "results": {
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude, Codex"
-        ]
-      }
-    ],
-    "ContributorsCheck": [],
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.2857143
-        },
-        "output": [
-          "Of the last 7 commits 1 were co-authored by Codex",
-          "Of the last 7 commit messages 1 mention OpenAI"
-        ]
-      }
-    ],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -40,6 +18,28 @@
         },
         "output": [
           "OpenAI Codex and Anthropic Claude wrote nearly all of the HDL,"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude, Codex"
+        ]
+      }
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.2857143
+        },
+        "output": [
+          "Of the last 7 commits 1 were co-authored by Codex",
+          "Of the last 7 commit messages 1 mention OpenAI"
         ]
       }
     ]
