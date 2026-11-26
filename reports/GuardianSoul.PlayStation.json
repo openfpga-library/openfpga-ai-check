@@ -1,6 +1,8 @@
 {
-  "last_run": 1795690409597,
+  "last_run": 1795728531826,
   "results": {
+    "ContributorsCheck": [],
+    "CommitsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -38,9 +40,7 @@
           "and Anthropic Claude wrote most of the new HDL, build scripts, tests and"
         ]
       }
-    ],
-    "ContributorsCheck": [],
-    "CommitsCheck": []
+    ]
   },
   "overall_score": 1.0
 }
