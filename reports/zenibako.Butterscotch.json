@@ -1,7 +1,15 @@
 {
-  "last_run": 1795615973359,
+  "last_run": 1795652114017,
   "results": {
-    "ContributorsCheck": [],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: OpenAI Codex, Claude Code"
+        ]
+      }
+    ],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -14,16 +22,8 @@
         ]
       }
     ],
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: OpenAI Codex, Claude Code"
-        ]
-      }
-    ],
-    "ReadmeCheck": []
+    "ReadmeCheck": [],
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }

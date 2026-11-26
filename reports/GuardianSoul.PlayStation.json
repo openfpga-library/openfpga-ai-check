@@ -1,8 +1,6 @@
 {
-  "last_run": 1795616221176,
+  "last_run": 1795652361606,
   "results": {
-    "CommitsCheck": [],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -32,6 +30,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -40,7 +39,8 @@
           "Author declares AI use: Claude, Codex"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": []
   },
   "overall_score": 1.0
 }
