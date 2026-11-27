@@ -1,6 +1,7 @@
 {
-  "last_run": 1795752755951,
+  "last_run": 1795797520054,
   "results": {
+    "DeclarationCheck": [],
     "CommitsCheck": [
       {
         "name": "Pre-AI check",
@@ -10,7 +11,6 @@
         ]
       }
     ],
-    "DeclarationCheck": [],
     "ContributorsCheck": [],
     "ReadmeCheck": []
   },

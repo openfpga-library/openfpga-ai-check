@@ -1,10 +1,10 @@
 {
-  "last_run": 1795752792239,
+  "last_run": 1795797562790,
   "results": {
-    "CommitsCheck": [],
-    "ContributorsCheck": [],
+    "DeclarationCheck": [],
     "ReadmeCheck": [],
-    "DeclarationCheck": []
+    "ContributorsCheck": [],
+    "CommitsCheck": []
   },
   "overall_score": 0.0
 }
