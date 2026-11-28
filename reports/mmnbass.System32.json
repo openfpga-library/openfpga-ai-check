@@ -1,17 +1,6 @@
 {
-  "last_run": 1795828946140,
+  "last_run": 1795860290493,
   "results": {
-    "CommitsCheck": [
-      {
-        "name": "Co-author check",
-        "score": {
-          "SuspectedAi": 0.30769232
-        },
-        "output": [
-          "Of the last 13 commit messages 4 mention Claude"
-        ]
-      }
-    ],
     "DeclarationCheck": [
       {
         "name": "Author declares AI use",
@@ -21,7 +10,6 @@
         ]
       }
     ],
-    "ContributorsCheck": [],
     "ReadmeCheck": [
       {
         "name": "README mentions AI usage",
@@ -41,7 +29,19 @@
           "OpenAI Codex served as an independent, read-only reviewer at development checkpoints"
         ]
       }
-    ]
+    ],
+    "CommitsCheck": [
+      {
+        "name": "Co-author check",
+        "score": {
+          "SuspectedAi": 0.30769232
+        },
+        "output": [
+          "Of the last 13 commit messages 4 mention Claude"
+        ]
+      }
+    ],
+    "ContributorsCheck": []
   },
   "overall_score": 1.0
 }
