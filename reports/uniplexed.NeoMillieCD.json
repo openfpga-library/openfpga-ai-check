@@ -1,5 +1,5 @@
 {
-  "last_run": 1795796966181,
+  "last_run": 1795829056757,
   "results": {
     "ReadmeCheck": [
       {
@@ -21,6 +21,7 @@
         ]
       }
     ],
+    "ContributorsCheck": [],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -41,8 +42,7 @@
           "Author declares AI use: Claude Code"
         ]
       }
-    ],
-    "ContributorsCheck": []
+    ]
   },
   "overall_score": 1.0
 }

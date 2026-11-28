@@ -1,16 +1,6 @@
 {
-  "last_run": 1795796941829,
+  "last_run": 1795829024024,
   "results": {
-    "ContributorsCheck": [],
-    "DeclarationCheck": [
-      {
-        "name": "Author declares AI use",
-        "score": "DeclaredAi",
-        "output": [
-          "Author declares AI use: Claude Code"
-        ]
-      }
-    ],
     "CommitsCheck": [
       {
         "name": "Co-author check",
@@ -20,6 +10,16 @@
         "output": [
           "Of the last 19 commits 1 were co-authored by Claude",
           "Of the last 19 commit messages 18 mention Claude"
+        ]
+      }
+    ],
+    "ContributorsCheck": [],
+    "DeclarationCheck": [
+      {
+        "name": "Author declares AI use",
+        "score": "DeclaredAi",
+        "output": [
+          "Author declares AI use: Claude Code"
         ]
       }
     ],
